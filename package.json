@@ -1,0 +1,22 @@
+{
+  "name": "airdrop-distribution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiemtienonline360/airdrop-distribution.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiemtienonline360/airdrop-distribution/issues"
+  },
+  "homepage": "https://github.com/kiemtienonline360/airdrop-distribution#readme",
+  "dependencies": {
+    "web3": "^1.7.3"
+  }
+}
