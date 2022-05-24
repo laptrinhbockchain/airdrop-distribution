@@ -1,1 +1,1 @@
-# airdrop-distribution
+# Airdrop Distribution
